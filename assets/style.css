@@ -1,0 +1,17 @@
+
+
+
+.project-text {
+    position: absolute;
+	width: 100%;
+	bottom: 20px;
+	padding: 15px;
+	margin-bottom: 0;
+	font-weight: 300;
+	line-height: 30px;
+	color: #ffffff;
+	text-align: center;
+	background: #4aaaa5;
+	border-bottom: 0;
+}
+

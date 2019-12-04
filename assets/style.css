@@ -1,9 +1,13 @@
+body {
+    background-image: url(../assets/images/light_honeycomb/light_honeycomb.png);
+    background-size: cover;
+}
 
 
 
 .project-text {
     position: absolute;
-	width: 100%;
+	width: 350px;
 	bottom: 20px;
 	padding: 15px;
 	margin-bottom: 0;

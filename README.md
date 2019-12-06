@@ -16,7 +16,7 @@ This project is created with:
 * CSS
 
 ## Credits
-I consulted Bootstrap 4 (https://getbootstrap.com/) and W3Schools (https://www.w3schools.com/bootstrap4/default.asp) extensively in creating my project. Some other resources that I used include: Stack Overflow (#https://stackoverflow.com/) and the GitLab repository for my course, specifically referencing in class activities. 
+I consulted Bootstrap 4 (https://getbootstrap.com/) and W3Schools (https://www.w3schools.com/bootstrap4/default.asp) extensively in creating my project. Some other resources that I used include: Stack Overflow (#https://stackoverflow.com/) and the GitLab repository for my course, specifically referencing in-class activities. 
 
 ## License
 MIT License
